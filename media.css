@@ -1,0 +1,255 @@
+@media (max-width : 2560px){
+    
+    .menu-lista{
+        font-size: 30px;
+    }
+    .body-intro{
+        font-size: 50px;
+    }
+    .pregunta{
+        font-size: 50px;
+    }
+    .items-list{
+        font-size: 30px;
+    }
+    .pie{
+        font-size: 30px;
+    }
+    /*  */
+    .texto-foto{
+        font-size: 25px;
+    }
+    .descripcion{
+    font-size: 20px;
+    }
+    /*  */
+    .separadorContacto{
+        height: 1000;
+    }
+    .formulario{
+        font-size: 25px;
+    }
+    .puntos{
+        height: 50px;
+    }
+    .boton{
+        height: 50px;
+    }
+    /*  */
+    .separadorClientes{
+        height: 1000px;
+        font-size: 25px;
+    }
+    /*  */
+    .formularioIngreso h5{
+        font-size: 2.5rem;
+    }
+    .inputIngreso{
+        font-size: 2rem;
+    }
+
+}
+@media(max-width : 2090px){
+    
+    .menu-lista{
+        font-size: 30px;
+    }
+    .body-intro{
+        font-size: 40px;
+    }
+    /*  */
+    .separadorClientes{
+        font-size: 20px;
+        height: 700px;
+    }
+    /*  */
+    .formularioIngreso{
+        padding: 0px;
+    }
+}
+
+@media(max-width : 1440px){
+   .menu-lista{
+        font-size: 20px;
+    }
+    .intro{
+        height: 400px;
+    }
+    .body-intro{
+        font-size:30px;
+    }
+    .items-list{
+        font-size: 20px;
+    }
+    .pie{
+        font-size: 20px;
+    }
+    /*  */
+    .separadorContacto{
+        height: 700;
+    }
+     .formulario{
+        font-size: 15px;
+    }
+    .puntos{
+        height: 25px;
+    }
+    .boton{
+        height: 25px;
+    }    
+    /*  */
+    .formularioClientes{
+        height: 50%;
+    }
+    .inputClientes{
+        height: 30px;
+    }
+    /*  */
+    .centralIngreso{
+        height: 450px;
+    }
+}
+@media(max-width : 1260px){
+    
+    .menu-lista{
+        font-size: 15px;
+    }
+    .body-intro{
+        font-size:20px;
+    }
+    .pregunta{
+        font-size: 40px;
+    }
+    .items-list{
+        font-size: 20px;
+    }
+    .pie{
+        font-size: 15px;
+    }
+    .items{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .items-list{
+        width: 70%;
+    }
+    /*  */    
+    .separadorContacto{
+        height: 500px;
+    }
+     .formulario{
+        font-size: 10px;
+    }
+    .puntos{
+        height: 20px;
+    }
+    .boton{
+        height: 20px;
+    }
+    /*  */
+    .caja{
+        grid-template-columns: 1fr;
+    }
+    /*  */
+    .separadorClientes{
+        height: 500px;
+    }
+    .formularioClientes{
+        width: 50%;
+        height: 80%;
+    }
+    .inputClientes{
+        height: 25px;
+    }
+    .lateralDClientes{
+        display: none;
+    }
+    .lateralIClientes{
+        display: none;
+    }
+    /*  */    
+    .lateralDIngreso{
+        display: none;
+    }
+    .formularioIngreso h5{
+        font-size: 1.5rem;
+    }
+    .inputIngreso{
+        font-size: 1rem;
+    }
+    .recuadroImg{
+        display: none;
+    }
+}
+@media(max-width : 640px){
+    .titulo{
+    font-size: 28px;
+    }
+    .body-foto{
+        display: none;
+    }
+    .menu-lista{
+        font-size: 15px;
+    }
+    .menu-foto{
+        display: none;
+    }
+    .body-intro{
+        font-size:25px;
+    }
+    .pregunta{
+        font-size: 30px;
+    }
+    .items-list{
+        font-size: 15px;
+    }
+    .pie{
+        font-size: 10px;
+    }
+    /*  */
+    .separadorContacto{
+        height: 400;
+    }
+    .formulario{
+        width: 70%;
+    }
+    /*  */
+    .separadorClientes{
+        height: 400px;
+    }
+
+    .formularioClientes{
+        height: 300px;
+        font-size: 10px;
+    }
+    /*  */
+    .centralIngreso{
+        width: 70%;
+    }
+    .lateralIIngreso{
+        display: none;
+    }
+}
+@media(max-width:480px){
+    .menu-lista{
+        font-size: 10px;
+    }
+    .body-intro{
+        font-size:20px;
+    }
+    .pie-2{
+        display: none;
+    }
+    .pie-2{
+        width: 30%;
+        background-color: red;
+    }
+    /*  */
+    .separadorClientes{
+        font-size: 10px;
+    }
+    .formularioClientes{
+        width: 80%;
+    }
+    /*  */
+}
